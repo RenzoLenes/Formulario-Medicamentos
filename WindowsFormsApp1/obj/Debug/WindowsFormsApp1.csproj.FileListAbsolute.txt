@@ -1,0 +1,16 @@
+C:\Users\RENZO\Desktop\menu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\RENZO\Desktop\menu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\RENZO\Desktop\menu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\RENZO\Desktop\menu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\RENZO\Desktop\menu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\RENZO\Desktop\menu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+C:\Users\RENZO\Desktop\menu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\RENZO\Desktop\menu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\RENZO\Desktop\menu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\RENZO\Desktop\menu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\RENZO\Desktop\menu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\RENZO\Desktop\menu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar.resources
+C:\Users\RENZO\Desktop\menu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Mostrar.resources
+C:\Users\RENZO\Desktop\menu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Buscar.resources
+C:\Users\RENZO\Desktop\menu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Eliminar.resources
+C:\Users\RENZO\Desktop\menu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ordenar.resources
